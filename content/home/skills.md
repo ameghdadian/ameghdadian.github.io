@@ -34,6 +34,11 @@ feature:
 #  name: "Emojiness"
 #  description: "100%"
 
+# Adding background image
+# design:
+#   background:
+#     image: test.jpg
+
 # Uncomment to use custom SVG icons.
 # Place your custom SVG icon in `assets/media/icons/`.
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.

@@ -47,4 +47,8 @@ experience:
 
 design:
   columns: '2'
+  # background:
+  #   color: 'red'
+  # spacing:
+  #   padding: ["20px", "20px"]
 ---
