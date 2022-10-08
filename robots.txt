@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://ameghdadian.github.io/sitemap.xml
