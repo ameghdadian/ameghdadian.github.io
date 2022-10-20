@@ -7,17 +7,17 @@ main:
   - name: Home
     url: "#about"
     weight: 10
-  - name: Posts
-    url: "#posts"
-    weight: 20
-  - name: Projects
-    url: "#projects"
-    weight: 30
+  # - name: Posts
+  #   url: "#posts"
+  #   weight: 20
+  # - name: Projects
+  #   url: "#projects"
+  #   weight: 30
   # - name: Talks
   #   url: "#talks"
   #   weight: 40
   - name: CV
-    url: "/uplods/cv.pdf"
+    url: "uploads/Amir-Hussain-Meghdadian-CV.pdf"
     weight: 50
   # - name: Publications
   #   url: "#featured"
@@ -25,8 +25,3 @@ main:
   # - name: Contact
   #   url: "#contact"
   #   weight: 60
-# Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
-#  - name: CV
-#    url: uploads/resume.pdf
-#    weight: 70
