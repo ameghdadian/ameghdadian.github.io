@@ -7,14 +7,14 @@ main:
   - name: Bio
     url: /
     weight: 10
-  - name: Papers
-    url: /#papers
-    weight: 11
-  - name: Talks
-    url: /#talks
-    weight: 12
-  - name: News
-    url: /#news
+  # - name: Papers
+  #   url: /#papers
+  #   weight: 11
+  # - name: Talks
+  #   url: /#talks
+    # weight: 12
+  - name: Blog
+    url: /#posts
     weight: 13
   - name: Experience
     url: experience/
@@ -22,6 +22,16 @@ main:
   - name: Projects
     url: projects/
     weight: 30
-  - name: Teaching
-    url: teaching/
-    weight: 40
+  # Navbar cusotmization
+  # - name: Tags
+  #   identifier: tags
+  #   weight: 50
+  # - name: Academic
+  #   parent: tags
+  #   url: https://varzesh3.com
+  #   weight: 30
+  # - name: Academic 2
+  #   parent: tags
+  #   url: https://varzesh3.com
+  #   weight: 20
+
